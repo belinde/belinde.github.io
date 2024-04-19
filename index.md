@@ -1,3 +1,2 @@
-== Franco "Belinde" Traversaro ==
-
-Work in progress.
+![](logo.svg)
+## Franco "Belinde" Traversaro
